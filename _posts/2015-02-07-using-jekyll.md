@@ -8,4 +8,6 @@ Well. Finally got around to putting this old website together. Neat thing about 
 
 ## What does it take to have markdown
 
-And sometimes you might want to smile :) :-) ;p ;-p :O :-O X-(
+And sometimes you might want to smile :smiley: :smile: :smirk: :unamused:
+I give this plugin two :+1:
+:smile:
