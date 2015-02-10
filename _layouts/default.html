@@ -8,32 +8,51 @@
       <!-- link to main stylesheet -->
       <!-- <link rel="stylesheet" type="text/css" href="/css/main.css"> -->
       <!-- link to skeleton stylesheet -->
-      <link rel="stylesheet" href="/css/custom.css">
       <link rel="stylesheet" href="/css/bootstrap.min.css">
+      <link rel="stylesheet" href="/css/custom.css">
+      <link href='http://fonts.googleapis.com/css?family=Roboto+Slab|Alegreya+Sans+SC' rel='stylesheet' type='text/css'>
   </head>
   <body>
-    <div class="container">
-      <nav class="navbar navbar-fixed-top">
-        <div class="navbar-brand">
-            <img src="X"></img>
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#collapse-navbar">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="/"><span class="glyphicon glyphicon-globe"></span></a>
+          <!-- <button class="btn navbar-btn btn-danger" href="/">mhminai</button> -->
         </div>
-        <ul class="nav-tabs">
-          <li><a href="/">Home</a></li>
-          <li><a href="/about">About</a></li>
-          <li><a href="/cv">CV</a></li>
-          <li><a href="/blog">Blog</a></li>
-        </ul>
-      </nav>
+        <div class="collapse navbar-collapse" id="collapse-navbar">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="/">Home</a></li>
+            <li><a href="/about">About</a></li>
+            <li><a href="/cv">CV</a></li>
+            <li><a href="/blog">Blog</a></li>
+            <li><a href="#">Notes</a></li>
+            <li><a href="#">Projects</a></li>
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </div>
+    </nav>
 
+    <div class="container page-contents">
       <div class="{{ page.title }}">
     
       {{ content }}
          
       </div>
-      <footer>
-        <p>mhminai</p>
-        <p>Last updated on 2015-02-10</p>
-      </footer>
+
     </div>
+    <nav class="navbar navbar-default">
+      <div class="container">
+          <p class="navbar-text navbar-left">© 2015, mhminai</p>
+        <p class="navbar-text navbar-right">Last updated on 2015-02-10</p>
+      </div>
+    </nav>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="/js/bootstrap.min.js"></script>
   </body>
 </html>
