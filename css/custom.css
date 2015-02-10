@@ -1,14 +1,12 @@
-.navbar-header > button {
-    text-transform: uppercase;
-    color: rgba(255,255,255,0.5)
+.container {
+    max-width: 1024px;
 }
 
 .navbar-default {
-    background-color: #DDDDDD
+    background-color: #EEE
 }
 
 .page-contents {
-    padding-top: 70px;
     padding-bottom: 70px;
 }
 
@@ -19,22 +17,23 @@ h1 {
 
 h1,h2,h3,h4 {
     font-family: 'Alegreya Sans SC', sans-serif;
+    font-size: 40pt;
 }
 
-.page-contents p {
+.page-contents {
     font-family: 'Roboto Slab', serif;
-    font-size: 14pt;
+    font-size: 1.5em;
 }
 
 .sidebar {
-    text-align: right;
+    text-align: center;
 }
 
-/*
-.container {
-    max-width: 800px;
+@media(min-width:1024px){
+    .sidebar {
+        text-align: right;
+    }
 }
-*/
 
 .navbar-text {
     margin-left: 0px;
