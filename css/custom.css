@@ -38,11 +38,11 @@ body.fullscreen {
  */
 
 .cover {
-  padding: 0 20px;
+  padding: 80px 20px;
 }
 .cover .btn-lg {
   padding: 10px 30px;
-  margin-top: 50px;
+  margin-top: 40px;
   font-weight: bold;
 }
 
@@ -95,12 +95,21 @@ h1 {
 
 h1,h2,h3,h4 {
     font-family: 'Alegreya Sans SC', sans-serif;
-    font-size: 40pt;
+}
+
+.cover-heading{
+    font-family: serif;
+    font-variant: small-caps;
+    letter-spacing: 4px;
+}
+
+.info-self{
+    font-family: Menlo, Monaco, monospace;
 }
 
 .page-contents {
     font-family: 'Roboto Slab', serif;
-    font-size: 1.5em;
+    font-size: 1.10em;
 }
 
 .posts {
