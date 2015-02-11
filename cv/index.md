@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CV
+title: Curriculum Vitae
 ---
 
 ### Objective:
@@ -86,16 +86,57 @@ title: CV
 
 ### Work Experience
 
-|---------------------------------------------+-------------------------+-------------|
-| Organization                                | Designation             |   Duration  |
-|:--------------------------------------------|:------------------------|:-----------:|
-| Freescale Semiconductors (FSL) Noida, India | *Applications Engineer* | 2009 – 2012 |
-| Freescale Semiconductor (FSL) Noida, India  | *Design Manager*        | 2006 – 2009 |
-| Freescale Semiconductor (FSL) Noida, India  | *IC Design Engineer II* | 2005 – 2006 |
-| Texas Instruments (TI) Bangalore, India     | *Lead Engineer*         | 2004 – 2005 |
-| Interra Systems India Pvt. Ltd, Noida, India| *Senior Design Engineer*| 2003 – 2004 |
-| Cogency Semiconductor Inc., Toronto, Canada | *ASIC Design Engineer*  | 2001 – 2003 |
-| STMicroelectronics (STM) Noida, India       | *Team Leader*           | 1999 – 2001 |
-| STMicroelectronics (STM) Noida, India       | *Design Engineer*       | 1998 – 1999 |
-|---------------------------------------------+-------------------------+-------------|
+<div class="table-responsive">
+  <table class="table table-hover">
+  <thead>
+    <tr>
+      <th style="text-align: left">Organization</th>
+      <th style="text-align: left">Designation</th>
+      <th style="text-align: center">Duration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align: left">Freescale Semiconductors (FSL) Noida, India</td>
+      <td style="text-align: left"><em>Applications Engineer</em></td>
+      <td style="text-align: center">2009 – 2012</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Freescale Semiconductor (FSL) Noida, India</td>
+      <td style="text-align: left"><em>Design Manager</em></td>
+      <td style="text-align: center">2006 – 2009</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Freescale Semiconductor (FSL) Noida, India</td>
+      <td style="text-align: left"><em>IC Design Engineer II</em></td>
+      <td style="text-align: center">2005 – 2006</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Texas Instruments (TI) Bangalore, India</td>
+      <td style="text-align: left"><em>Lead Engineer</em></td>
+      <td style="text-align: center">2004 – 2005</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Interra Systems India Pvt. Ltd, Noida, India</td>
+      <td style="text-align: left"><em>Senior Design Engineer</em></td>
+      <td style="text-align: center">2003 – 2004</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">Cogency Semiconductor Inc., Toronto, Canada</td>
+      <td style="text-align: left"><em>ASIC Design Engineer</em></td>
+      <td style="text-align: center">2001 – 2003</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">STMicroelectronics (STM) Noida, India</td>
+      <td style="text-align: left"><em>Team Leader</em></td>
+      <td style="text-align: center">1999 – 2001</td>
+    </tr>
+    <tr>
+      <td style="text-align: left">STMicroelectronics (STM) Noida, India</td>
+      <td style="text-align: left"><em>Design Engineer</em></td>
+      <td style="text-align: center">1998 – 1999</td>
+    </tr>
+  </tbody>
+  </table>
+</div>
 
