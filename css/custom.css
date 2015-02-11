@@ -75,6 +75,16 @@ body.fullscreen {
   color: rgba(255,255,255,.5);
 }
 
+table { 
+    border-collapse: collapse; 
+    border-spacing: 0;
+    padding: 3px;
+    margin: 10px;
+} /* Make table wider */
+
+td, th {
+    padding: 3px 30px;
+} /* Add borders to cells */
 
 .container {
     max-width: 1024px;
