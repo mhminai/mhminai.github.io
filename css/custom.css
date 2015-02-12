@@ -102,13 +102,15 @@ body.fullscreen {
 }
 */
 
-h1 {
+h1,h2,h3,h4 {
     text-transform: capitalize;
     text-align: center;
+    font-family: 'Alegreya Sans SC', sans-serif;
+    padding-top: 20px;
 }
 
-h1,h2,h3,h4 {
-    font-family: 'Alegreya Sans SC', sans-serif;
+.curriculum, .vitae {
+    line-height: 1.5;
 }
 
 dl>dt {
@@ -124,16 +126,7 @@ dl>dd>li {
     font-size: 1.10em;
     padding-top: 70px;
     padding-bottom: 70px;
-}
-
-.sidebar {
-    text-align: center;
-}
-
-@media(min-width:1024px){
-    .sidebar {
-        text-align: right;
-    }
+    max-width: 800px;
 }
 
 .row {
