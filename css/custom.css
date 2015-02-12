@@ -111,6 +111,10 @@ h1,h2,h3,h4 {
     font-family: 'Alegreya Sans SC', sans-serif;
 }
 
+dl>dt {
+  padding-top:10px;
+}
+
 dl>dd>li {
   margin-left:40px;
 }
