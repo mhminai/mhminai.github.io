@@ -3,6 +3,8 @@ layout: default
 title: curriculum vitae
 ---
 
+[PDF](/files/cv.pdf)
+
 ### Summary:
 
 -   Thrives on learning and exploring new technologies and ideas.
@@ -155,3 +157,4 @@ title: curriculum vitae
 
 - Email: mhminai AT iiml DOT ac DOT in
 - Phone: nine zero four four 823169
+
