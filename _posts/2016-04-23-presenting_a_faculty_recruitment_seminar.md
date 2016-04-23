@@ -17,6 +17,7 @@ date: 2016-04-23
 
 # The Presentation
 
+- Present your strongest work
 - Be comfortable with failure
 - Practice using dry runs preferably actual FRSs
     - Your first FRS will test you. View it as a learning experience
@@ -34,3 +35,9 @@ date: 2016-04-23
 - An FRS is not a closed book exam, take your notes, have a cue card
 - Lead to the questions that you want asked
 - At the end link back to the beginning. Close the loop.
+    - Ensure connect between implications and findings
+- Don't talk too much, be pertinent and to the point
+- Answer 3 questions:
+    1. Why is the question important?
+    2. Has the question been well researched?
+    3. Has the question been answered?
