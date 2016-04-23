@@ -1,7 +1,8 @@
 ---
 title: taking-pen-and-paper-notes
 layout: post
-date: 2016-02-22
+date: 2016-04-23 14:41 IST
+
 ---
 
 When attending a talk, seminar or presentation. Learning is greatly influenced
