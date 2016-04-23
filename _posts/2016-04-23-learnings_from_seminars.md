@@ -1,7 +1,8 @@
 ---
 title: Learnings from seminars
 layout: post
-date: 2015-02-20
+date: 2016-04-23 14:43 IST
+
 ---
 
 These are a collection of notes that I have made while attending seminars in which academics present their research for judgement by their senior colleagues. These included "Proposal seminars", "Pre-thesis seminars" and "Faculty recruitment seminars". The passage below is written from the notes I took during these seminars and are thus completely subject to my subjective interpretations of the dynamics that I felt developing during these seminars.
